@@ -1,4 +1,3 @@
 # Conway's Game Of Life
 
-> Implemented in Zig.
-> [Zig](https://ziglang.org/)
+> Implemented in [Zig](https://ziglang.org/).
